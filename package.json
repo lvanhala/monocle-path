@@ -1,6 +1,6 @@
 {
   "name": "monocle-path",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a monocle-ts optional from a path",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -19,10 +19,10 @@
   "homepage": "https://github.com/lvanhala/monocle-path#readme",
   "dependencies": {
     "fp-ts": "^1.3.0",
-    "monocle-ts": "^1.0.0",
-    "typescript": "^2.9.1"
+    "monocle-ts": "^1.0.0"
   },
   "devDependencies": {
-    "ts-node": "^6.1.0"
+    "ts-node": "^6.1.0",
+    "typescript": "^2.9.1"
   }
 }
