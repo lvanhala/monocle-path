@@ -1,0 +1,28 @@
+{
+  "name": "monocle-path",
+  "version": "1.0.0",
+  "description": "Create a monocle-ts optional from a path",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvanhala/monocle-path.git"
+  },
+  "author": "Lauri Vanhala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lvanhala/monocle-path/issues"
+  },
+  "homepage": "https://github.com/lvanhala/monocle-path#readme",
+  "dependencies": {
+    "fp-ts": "^1.3.0",
+    "monocle-ts": "^1.0.0",
+    "typescript": "^2.9.1"
+  },
+  "devDependencies": {
+    "ts-node": "^6.1.0"
+  }
+}
